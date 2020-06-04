@@ -1,0 +1,13 @@
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\obj\Debug\netcoreapp3.1\Deck_of_Cards.csprojAssemblyReference.cache
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\obj\Debug\netcoreapp3.1\Deck_of_Cards.csproj.CoreCompileInputs.cache
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\obj\Debug\netcoreapp3.1\Deck_of_Cards.AssemblyInfoInputs.cache
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\obj\Debug\netcoreapp3.1\Deck_of_Cards.AssemblyInfo.cs
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\bin\Debug\netcoreapp3.1\Deck_of_Cards.exe
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\bin\Debug\netcoreapp3.1\Deck_of_Cards.deps.json
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\bin\Debug\netcoreapp3.1\Deck_of_Cards.runtimeconfig.json
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\bin\Debug\netcoreapp3.1\Deck_of_Cards.runtimeconfig.dev.json
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\bin\Debug\netcoreapp3.1\Deck_of_Cards.dll
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\bin\Debug\netcoreapp3.1\Deck_of_Cards.pdb
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\obj\Debug\netcoreapp3.1\Deck_of_Cards.dll
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\obj\Debug\netcoreapp3.1\Deck_of_Cards.pdb
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\obj\Debug\netcoreapp3.1\Deck_of_Cards.genruntimeconfig.cache
